@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2024-04-03
 venue: 'Water Resources Research'
-slidesurl: ''
 paperurl: 'http://shuping-li.github.io/files/WRR2024.pdf'
+link: 'https://iopscience.iop.org/article/10.1088/1748-9326/ac9c1f'
 citation: 'Li, S.*, Yamazaki, D., Zhou, X., Zhao, G. (2024). Where in the World Are Vegetation Patterns Controlled by Hillslope Water Dynamics? Water Resources Research, 60(4)'
 ---
 

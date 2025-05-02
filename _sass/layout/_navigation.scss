@@ -202,63 +202,74 @@
     z-index: 100;
   }
 
-  .visible-links {
-    display: table;
+   .visible-links {
+  display: flex; // ← replaces table
+  justify-content: flex-end; // ← pushes links to the right
+  align-items: center; // ← vertical alignment if needed
 
-    li {
-      display: table-cell;
-      vertical-align: middle;
-
-      &:first-child {
-        font-weight: bold;
-        text-wrap: wrap;
-
-        a {
-          margin-left: 0;
-        }
-      }
-
-      &:last-child {
-        a {
-          margin-right: 0;
-        }
-      }
-    }
-
-    #theme-toggle {
-      a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
-        cursor: pointer;
-      }
-    }
-
-    a {
-      position: relative;
-
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background: var(--global-border-color);
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
-      }
-
-      &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
-      }
-    }
+  li {
+    display: inline-block; // ← replaces table-cell
+    vertical-align: middle;
+    margin-left: 1rem; // optional spacing between items
   }
+}
+  // .visible-links {
+  //   display: table;
+
+  //   li {
+  //     display: table-cell;
+  //     vertical-align: middle;
+
+  //     &:first-child {
+  //       font-weight: bold;
+  //       text-wrap: wrap;
+
+  //       a {
+  //         margin-left: 0;
+  //       }
+  //     }
+
+  //     &:last-child {
+  //       a {
+  //         margin-right: 0;
+  //       }
+  //     }
+  //   }
+
+  //   #theme-toggle {
+  //     a {
+  //       width: 25px;
+  //       display: flex;
+  //       justify-content: center;
+  //       cursor: pointer;
+  //     }
+  //   }
+
+  //   a {
+  //     position: relative;
+
+  //     &:before {
+  //       content: "";
+  //       position: absolute;
+  //       left: 0;
+  //       bottom: 0;
+  //       height: 4px;
+  //       background: var(--global-border-color);
+  //       width: 100%;
+  //       -webkit-transition: $global-transition;
+  //       transition: $global-transition;
+  //       -webkit-transform: scaleX(0);
+  //           -ms-transform: scaleX(0);
+  //               transform: scaleX(0); /* hide*/
+  //     }
+
+  //     &:hover:before {
+  //       -webkit-transform: scaleX(1);
+  //           -ms-transform: scaleX(1);
+  //               transform: scaleX(1); /* reveal*/
+  //     }
+  //   }
+  // }
 
   .hidden-links {
     position: absolute;

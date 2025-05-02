@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shuping's Homepage"
+title                    : "Shuping Li"
 title_separator          : "-"
 name                     : &name "Shuping LI"
 description              : &description "personal description"

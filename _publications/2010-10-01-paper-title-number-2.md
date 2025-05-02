@@ -1,14 +1,24 @@
 ---
-title: "Paper Title Number 2"
+title: "Soil moisture-vegetation interaction from near-global in-situ soil moisture measurements"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2022-11-01
+venue: 'Environmental Research Letters'
+slidesurl: ''
+paperurl: 'http://shuping-li.github.io/files/ERL2022.pdf'
+citation: 'Li, S.*, & Sawada, Y. (2022). Soil moisture-vegetation interaction from near-global in-situ soil moisture measurements. Environmental Research Letters, 17(11)'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+![Abstract picture](/images/ERL2022.jpg)
+
+Abstract
+===
+Although the interactions between soil moisture (SM) and vegetation dynamics have been extensively investigated, most of previous findings are derived from satellite-observed and/or model-simulated SM data, which inevitably include multiple sources of error. With the effort of many field workers and researchers in in-situ SM measurement and SM data integration, it is now possible to obtain the integrated in-situ SM dataset in the global range. Here we used the in-situ SM dataset of the International Soil Moisture Network to analyze the anomaly correlation between SM and leaf area index (LAI). We found that positive (negative) correlations exist between SM (LAI) and temporally lagged LAI (SM). The peak correlation and lagging time to reach it (often less than 3 months) depends on climate, land cover and rooting depths. The high SM-LAI anomaly correlation prevails in water-limited regions, e.g. dryland, where plant physiology has strong sensitivity to subsurface water stress. Dynamics of vegetation with deeper maximum rooting depths are not always correlated with SM in deeper soil layers, and vegetation dynamics with shallower maximum rooting depth may strongly correlate with SM in deeper soil layers. Overall, we highlight the potential of the global in-situ SM observation network to analyze the interactions between SM and vegetation dynamics.
+
+Key points
+===
+- SM or LAI can respond to their counterpart’s variation when it lags by a relatively short term, but they can hardly respond to changes with a lag of more than three months.
+- Generally, the highest SM-LAI anomaly correlation is found in the region with dry climate.
+- Dynamics of vegetation with deep root is not always correlated with SM near rooting depth and it may consume SM from upper soil layers, and shallow root vegetation may strongly correlate with SM from deeper layers.

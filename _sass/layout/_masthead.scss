@@ -30,6 +30,11 @@
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; // allows wrapping on small screens
+
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
@@ -44,24 +49,62 @@
   }
 }
 
-.masthead__menu {
+/* Logo / Site Title */
+.masthead__logo {
+  .site-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: inherit;
+    text-decoration: none;
+  }
+}
 
+/* Menu Container */
+.masthead__menu {
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
   }
 }
 
+/* Individual Menu Items */
 .masthead__menu-item {
   background-color: var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  margin-left: 1rem;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    margin-left: 0; // keep the title flush on left
+  }
+}
+
+/* Responsive: stack logo and menu */
+@media screen and (max-width: 768px) {
+  .masthead__inner-wrap {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .masthead__menu {
+    width: 100%;
+  }
+
+  .masthead__menu ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .masthead__menu-item {
+    margin-left: 0;
+    padding: 0.5em 0;
   }
 }

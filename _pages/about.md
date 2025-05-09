@@ -38,3 +38,4 @@ Research Interest
 - Hydrological modeling at hillslope scale in land surface model
 - Impact of hillslope water dynamics on land cover heterogeneity
 - Interaction between soil moisture and vegetation dynamics
+- Groundwater flooding impact assesment

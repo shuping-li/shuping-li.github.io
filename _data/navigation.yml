@@ -14,8 +14,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Presentaions"
-    url: /talks/  
+  # - title: "Presentaions"
+  #   url: /talks/  
   
   - title: "CV"
     url: /files/CV_Li_Shuping_250425.pdf

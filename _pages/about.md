@@ -9,7 +9,7 @@ redirect_from:
 <!--- 
 <img src="{{ site.url }}{{ site.baseurl }}/images/IIS_logo_github.png" alt="profile" style="width: 100px; float: right; margin-left: 00px; margin-right: 20px; margin-bottom: 20px" /> <br> 
 -->
-Hi! I am Shuping Li, a scientist by training, with a background in <u><strong> land surface modeling </strong></u> and <u><strong> hydrology</strong></u>.
+Hi! I am Shuping Li, a scientist by training, with a background in <u><strong> hydrology </strong></u> and <u><strong> land surface modeling </strong></u>.
 
 Since October 2024, I worked as a Project Researcher with [Dr. Kei Yoshimura](https://isotope.iis.u-tokyo.ac.jp/lab-members?lang=en) at [Insititute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 

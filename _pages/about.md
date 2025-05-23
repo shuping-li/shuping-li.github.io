@@ -39,4 +39,4 @@ Research Interest
 - Impact of hillslope water dynamics on land cover heterogeneity
 - Soil moisture and vegetation dynamics interaction
 - Land-atmosphere interaction
-- Groundwater flooding impact assesment
+- Groundwater flooding impact assessment

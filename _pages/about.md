@@ -21,17 +21,17 @@ I completed my Ph.D. at the [Global Hydrodynamics Lab](https://global-hydrodynam
 ![Abstract picture](/images/IIS.jpg)
 <p align="center">UTokyo Komaba campus II, Dec 2023</p>
 
-Education
-------
-- Ph.D., 2020-2024, Department of Civil Engineering, The University of Tokyo
-- M.E., 2017-2019, School of Geography and Planning, Sun Yat-sen University
-- B.E., 2013-2017, School of Geography and Planning, Sun Yat-sen University
-
 Work Experiences
 ------
 - Project researcher, 2024-Present, Institute of Industrial Science, The University of Tokyo
 - Research assistant, 2023-2024, Institute of Industrial Science, The University of Tokyo
 - Research intern, 2019-2020, South China Institute of Environmental Sciences
+
+Education
+------
+- Ph.D., 2020-2024, Department of Civil Engineering, The University of Tokyo
+- M.E., 2017-2019, School of Geography and Planning, Sun Yat-sen University
+- B.E., 2013-2017, School of Geography and Planning, Sun Yat-sen University
 
 Research Interest
 ------

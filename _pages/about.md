@@ -19,7 +19,7 @@ Since October 2024, I worked as a Project Researcher with [Dr. Kei Yoshimura](ht
 I completed my Ph.D. at the [Global Hydrodynamics Lab](https://global-hydrodynamics.github.io/) of the [Global Hydrology Group](https://hydro.iis.u-tokyo.ac.jp/index_en.html) in UTokyo, under the supervision of [Dr. Dai Yamazaki](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cv.html). I mainly worked on the representation of hillslope hydrological process in land surface model MATSIRO/ILS.
 
 ![Abstract picture](/images/IIS.jpg)
-<p align="center">UTokyo Komaba campus II, Dec 2023</p>
+<p align="center">UTokyo Komaba campus II, 2023.12</p>
 
 Research Interest
 ------
@@ -32,15 +32,15 @@ Research Interest
 Work Experiences
 ------
 - **Project researcher**, **The University of Tokyo**
-  - Institute of Industrial Science, 2024-Present
+  - Institute of Industrial Science, 2024.10-Present
 - **Research assistant**, **The University of Tokyo**
-  - Institute of Industrial Science, 2023-2024
+  - Institute of Industrial Science, 2023.10-2024.09
     
 Education
 ------
 - **Ph.D.**, **The University of Tokyo**
-  - Department of Civil Engineering, 2020-2024
+  - Department of Civil Engineering, 2024.09
 - **M.E.**, **Sun Yat-sen University**
-  - School of Geography and Planning, 2017-2019
+  - School of Geography and Planning, 2019.07
 - **B.E.**, **Sun Yat-sen University**
-  - School of Geography and Planning, 2013-2017
+  - School of Geography and Planning, 2017.07

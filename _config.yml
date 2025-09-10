@@ -81,7 +81,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Peer-reviewed Articles'    
+    title: 'Featured Articles'    
   conferences:
     title: 'Technical Books'
 
